@@ -1,0 +1,817 @@
+state,policy,tax_amount,unit,year,note,source
+Alabama,State sales tax,0.040,ad valorem rate,2018,,Tax Foundation
+Alaska,State sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Arizona,State sales tax,0.056,ad valorem rate,2018,,Tax Foundation
+Arkansas,State sales tax,0.065,ad valorem rate,2018,,Tax Foundation
+California,State sales tax,0.073,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Colorado,State sales tax,0.029,ad valorem rate,2018,,Tax Foundation
+Connecticut,State sales tax,0.064,ad valorem rate,2018,,Tax Foundation
+Delaware,State sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Florida,State sales tax,0.060,ad valorem rate,2018,,Tax Foundation
+Georgia,State sales tax,0.040,ad valorem rate,2018,,Tax Foundation
+Hawaii,State sales tax,0.040,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Idaho,State sales tax,0.060,ad valorem rate,2018,,Tax Foundation
+Illinois,State sales tax,0.063,ad valorem rate,2018,,Tax Foundation
+Indiana,State sales tax,0.070,ad valorem rate,2018,,Tax Foundation
+Iowa,State sales tax,0.060,ad valorem rate,2018,,Tax Foundation
+Kansas,State sales tax,0.065,ad valorem rate,2018,,Tax Foundation
+Kentucky,State sales tax,0.060,ad valorem rate,2018,,Tax Foundation
+Louisiana,State sales tax,0.050,ad valorem rate,2018,,Tax Foundation
+Maine,State sales tax,0.055,ad valorem rate,2018,,Tax Foundation
+Maryland,State sales tax,0.060,ad valorem rate,2018,,Tax Foundation
+Massachusetts,State sales tax,0.063,ad valorem rate,2018,,Tax Foundation
+Michigan,State sales tax,0.060,ad valorem rate,2018,,Tax Foundation
+Minnesota,State sales tax,0.069,ad valorem rate,2018,,Tax Foundation
+Mississippi,State sales tax,0.070,ad valorem rate,2018,,Tax Foundation
+Missouri,State sales tax,0.042,ad valorem rate,2018,,Tax Foundation
+Montana,State sales tax,0.000,ad valorem rate,2018,Special taxes in local resort areas are not counted here.,Tax Foundation
+Nebraska,State sales tax,0.055,ad valorem rate,2018,,Tax Foundation
+Nevada,State sales tax,0.069,ad valorem rate,2018,,Tax Foundation
+New Hampshire,State sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+New Jersey,State sales tax,0.066,ad valorem rate,2018,Salem County is not subject to the statewide sales tax rate and collects a local rate of 3.3125%. New Jersey’s average local score is represented as a negative.,Tax Foundation
+New Mexico,State sales tax,0.051,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+New York,State sales tax,0.040,ad valorem rate,2018,,Tax Foundation
+North Carolina,State sales tax,0.048,ad valorem rate,2018,,Tax Foundation
+North Dakota,State sales tax,0.050,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Ohio,State sales tax,0.058,ad valorem rate,2018,,Tax Foundation
+Oklahoma,State sales tax,0.045,ad valorem rate,2018,,Tax Foundation
+Oregon,State sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Pennsylvania,State sales tax,0.060,ad valorem rate,2018,,Tax Foundation
+Rhode Island,State sales tax,0.070,ad valorem rate,2018,,Tax Foundation
+South Carolina,State sales tax,0.060,ad valorem rate,2018,,Tax Foundation
+South Dakota,State sales tax,0.045,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Tennessee,State sales tax,0.070,ad valorem rate,2018,,Tax Foundation
+Texas,State sales tax,0.063,ad valorem rate,2018,,Tax Foundation
+Utah,State sales tax,0.060,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Vermont,State sales tax,0.060,ad valorem rate,2018,,Tax Foundation
+Virginia,State sales tax,0.053,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Washington,State sales tax,0.065,ad valorem rate,2018,,Tax Foundation
+West Virginia,State sales tax,0.060,ad valorem rate,2018,,Tax Foundation
+Wisconsin,State sales tax,0.050,ad valorem rate,2018,,Tax Foundation
+Wyoming,State sales tax,0.040,ad valorem rate,2018,,Tax Foundation
+D.C.,State sales tax,0.058,ad valorem rate,2018,,Tax Foundation
+Alabama,Average local sales tax,0.051,ad valorem rate,2018,,Tax Foundation
+Alaska,Average local sales tax,0.018,ad valorem rate,2018,,Tax Foundation
+Arizona,Average local sales tax,0.027,ad valorem rate,2018,,Tax Foundation
+Arkansas,Average local sales tax,0.029,ad valorem rate,2018,,Tax Foundation
+California,Average local sales tax,0.013,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Colorado,Average local sales tax,0.046,ad valorem rate,2018,,Tax Foundation
+Connecticut,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Delaware,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Florida,Average local sales tax,0.008,ad valorem rate,2018,,Tax Foundation
+Georgia,Average local sales tax,0.032,ad valorem rate,2018,,Tax Foundation
+Hawaii,Average local sales tax,0.004,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Idaho,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Illinois,Average local sales tax,0.025,ad valorem rate,2018,,Tax Foundation
+Indiana,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Iowa,Average local sales tax,0.008,ad valorem rate,2018,,Tax Foundation
+Kansas,Average local sales tax,0.022,ad valorem rate,2018,,Tax Foundation
+Kentucky,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Louisiana,Average local sales tax,0.050,ad valorem rate,2018,,Tax Foundation
+Maine,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Maryland,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Massachusetts,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Michigan,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Minnesota,Average local sales tax,0.006,ad valorem rate,2018,,Tax Foundation
+Mississippi,Average local sales tax,0.001,ad valorem rate,2018,,Tax Foundation
+Missouri,Average local sales tax,0.038,ad valorem rate,2018,,Tax Foundation
+Montana,Average local sales tax,0.000,ad valorem rate,2018,Special taxes in local resort areas are not counted here.,Tax Foundation
+Nebraska,Average local sales tax,0.014,ad valorem rate,2018,,Tax Foundation
+Nevada,Average local sales tax,0.013,ad valorem rate,2018,,Tax Foundation
+New Hampshire,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+New Jersey,Average local sales tax,0.000,ad valorem rate,2018,Salem County is not subject to the statewide sales tax rate and collects a local rate of 3.3125%. New Jersey’s average local score is represented as a negative.,Tax Foundation
+New Mexico,Average local sales tax,0.025,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+New York,Average local sales tax,0.045,ad valorem rate,2018,,Tax Foundation
+North Carolina,Average local sales tax,0.022,ad valorem rate,2018,,Tax Foundation
+North Dakota,Average local sales tax,0.018,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Ohio,Average local sales tax,0.014,ad valorem rate,2018,,Tax Foundation
+Oklahoma,Average local sales tax,0.044,ad valorem rate,2018,,Tax Foundation
+Oregon,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Pennsylvania,Average local sales tax,0.003,ad valorem rate,2018,,Tax Foundation
+Rhode Island,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+South Carolina,Average local sales tax,0.014,ad valorem rate,2018,,Tax Foundation
+South Dakota,Average local sales tax,0.019,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Tennessee,Average local sales tax,0.025,ad valorem rate,2018,,Tax Foundation
+Texas,Average local sales tax,0.019,ad valorem rate,2018,,Tax Foundation
+Utah,Average local sales tax,0.008,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Vermont,Average local sales tax,0.002,ad valorem rate,2018,,Tax Foundation
+Virginia,Average local sales tax,0.003,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Washington,Average local sales tax,0.027,ad valorem rate,2018,,Tax Foundation
+West Virginia,Average local sales tax,0.004,ad valorem rate,2018,,Tax Foundation
+Wisconsin,Average local sales tax,0.004,ad valorem rate,2018,,Tax Foundation
+Wyoming,Average local sales tax,0.015,ad valorem rate,2018,,Tax Foundation
+D.C.,Average local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Alabama,Combined state and local sales taxes,0.091,ad valorem rate,2018,,Tax Foundation
+Alaska,Combined state and local sales taxes,0.018,ad valorem rate,2018,,Tax Foundation
+Arizona,Combined state and local sales taxes,0.083,ad valorem rate,2018,,Tax Foundation
+Arkansas,Combined state and local sales taxes,0.094,ad valorem rate,2018,,Tax Foundation
+California,Combined state and local sales taxes,0.085,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Colorado,Combined state and local sales taxes,0.075,ad valorem rate,2018,,Tax Foundation
+Connecticut,Combined state and local sales taxes,0.064,ad valorem rate,2018,,Tax Foundation
+Delaware,Combined state and local sales taxes,0.000,ad valorem rate,2018,,Tax Foundation
+Florida,Combined state and local sales taxes,0.068,ad valorem rate,2018,,Tax Foundation
+Georgia,Combined state and local sales taxes,0.072,ad valorem rate,2018,,Tax Foundation
+Hawaii,Combined state and local sales taxes,0.044,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Idaho,Combined state and local sales taxes,0.060,ad valorem rate,2018,,Tax Foundation
+Illinois,Combined state and local sales taxes,0.087,ad valorem rate,2018,,Tax Foundation
+Indiana,Combined state and local sales taxes,0.070,ad valorem rate,2018,,Tax Foundation
+Iowa,Combined state and local sales taxes,0.068,ad valorem rate,2018,,Tax Foundation
+Kansas,Combined state and local sales taxes,0.087,ad valorem rate,2018,,Tax Foundation
+Kentucky,Combined state and local sales taxes,0.060,ad valorem rate,2018,,Tax Foundation
+Louisiana,Combined state and local sales taxes,0.100,ad valorem rate,2018,,Tax Foundation
+Maine,Combined state and local sales taxes,0.055,ad valorem rate,2018,,Tax Foundation
+Maryland,Combined state and local sales taxes,0.060,ad valorem rate,2018,,Tax Foundation
+Massachusetts,Combined state and local sales taxes,0.063,ad valorem rate,2018,,Tax Foundation
+Michigan,Combined state and local sales taxes,0.060,ad valorem rate,2018,,Tax Foundation
+Minnesota,Combined state and local sales taxes,0.074,ad valorem rate,2018,,Tax Foundation
+Mississippi,Combined state and local sales taxes,0.071,ad valorem rate,2018,,Tax Foundation
+Missouri,Combined state and local sales taxes,0.080,ad valorem rate,2018,,Tax Foundation
+Montana,Combined state and local sales taxes,0.000,ad valorem rate,2018,Special taxes in local resort areas are not counted here.,Tax Foundation
+Nebraska,Combined state and local sales taxes,0.069,ad valorem rate,2018,,Tax Foundation
+Nevada,Combined state and local sales taxes,0.081,ad valorem rate,2018,,Tax Foundation
+New Hampshire,Combined state and local sales taxes,0.000,ad valorem rate,2018,,Tax Foundation
+New Jersey,Combined state and local sales taxes,0.066,ad valorem rate,2018,Salem County is not subject to the statewide sales tax rate and collects a local rate of 3.3125%. New Jersey’s average local score is represented as a negative.,Tax Foundation
+New Mexico,Combined state and local sales taxes,0.077,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+New York,Combined state and local sales taxes,0.085,ad valorem rate,2018,,Tax Foundation
+North Carolina,Combined state and local sales taxes,0.070,ad valorem rate,2018,,Tax Foundation
+North Dakota,Combined state and local sales taxes,0.068,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Ohio,Combined state and local sales taxes,0.072,ad valorem rate,2018,,Tax Foundation
+Oklahoma,Combined state and local sales taxes,0.089,ad valorem rate,2018,,Tax Foundation
+Oregon,Combined state and local sales taxes,0.000,ad valorem rate,2018,,Tax Foundation
+Pennsylvania,Combined state and local sales taxes,0.063,ad valorem rate,2018,,Tax Foundation
+Rhode Island,Combined state and local sales taxes,0.070,ad valorem rate,2018,,Tax Foundation
+South Carolina,Combined state and local sales taxes,0.074,ad valorem rate,2018,,Tax Foundation
+South Dakota,Combined state and local sales taxes,0.064,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Tennessee,Combined state and local sales taxes,0.095,ad valorem rate,2018,,Tax Foundation
+Texas,Combined state and local sales taxes,0.082,ad valorem rate,2018,,Tax Foundation
+Utah,Combined state and local sales taxes,0.068,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Vermont,Combined state and local sales taxes,0.062,ad valorem rate,2018,,Tax Foundation
+Virginia,Combined state and local sales taxes,0.056,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Washington,Combined state and local sales taxes,0.092,ad valorem rate,2018,,Tax Foundation
+West Virginia,Combined state and local sales taxes,0.064,ad valorem rate,2018,,Tax Foundation
+Wisconsin,Combined state and local sales taxes,0.054,ad valorem rate,2018,,Tax Foundation
+Wyoming,Combined state and local sales taxes,0.055,ad valorem rate,2018,,Tax Foundation
+D.C.,Combined state and local sales taxes,0.058,ad valorem rate,2018,,Tax Foundation
+Alabama,Maximum local sales tax,0.075,ad valorem rate,2018,,Tax Foundation
+Alaska,Maximum local sales tax,0.075,ad valorem rate,2018,,Tax Foundation
+Arizona,Maximum local sales tax,0.053,ad valorem rate,2018,,Tax Foundation
+Arkansas,Maximum local sales tax,0.051,ad valorem rate,2018,,Tax Foundation
+California,Maximum local sales tax,0.025,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Colorado,Maximum local sales tax,0.083,ad valorem rate,2018,,Tax Foundation
+Connecticut,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Delaware,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Florida,Maximum local sales tax,0.020,ad valorem rate,2018,,Tax Foundation
+Georgia,Maximum local sales tax,0.049,ad valorem rate,2018,,Tax Foundation
+Hawaii,Maximum local sales tax,0.005,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Idaho,Maximum local sales tax,0.030,ad valorem rate,2018,,Tax Foundation
+Illinois,Maximum local sales tax,0.048,ad valorem rate,2018,,Tax Foundation
+Indiana,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Iowa,Maximum local sales tax,0.010,ad valorem rate,2018,,Tax Foundation
+Kansas,Maximum local sales tax,0.040,ad valorem rate,2018,,Tax Foundation
+Kentucky,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Louisiana,Maximum local sales tax,0.070,ad valorem rate,2018,,Tax Foundation
+Maine,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Maryland,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Massachusetts,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Michigan,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Minnesota,Maximum local sales tax,0.020,ad valorem rate,2018,,Tax Foundation
+Mississippi,Maximum local sales tax,0.010,ad valorem rate,2018,,Tax Foundation
+Missouri,Maximum local sales tax,0.054,ad valorem rate,2018,,Tax Foundation
+Montana,Maximum local sales tax,0.000,ad valorem rate,2018,Special taxes in local resort areas are not counted here.,Tax Foundation
+Nebraska,Maximum local sales tax,0.020,ad valorem rate,2018,,Tax Foundation
+Nevada,Maximum local sales tax,0.014,ad valorem rate,2018,,Tax Foundation
+New Hampshire,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+New Jersey,Maximum local sales tax,0.033,ad valorem rate,2018,Salem County is not subject to the statewide sales tax rate and collects a local rate of 3.3125%. New Jersey’s average local score is represented as a negative.,Tax Foundation
+New Mexico,Maximum local sales tax,0.041,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+New York,Maximum local sales tax,0.049,ad valorem rate,2018,,Tax Foundation
+North Carolina,Maximum local sales tax,0.028,ad valorem rate,2018,,Tax Foundation
+North Dakota,Maximum local sales tax,0.035,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Ohio,Maximum local sales tax,0.023,ad valorem rate,2018,,Tax Foundation
+Oklahoma,Maximum local sales tax,0.065,ad valorem rate,2018,,Tax Foundation
+Oregon,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Pennsylvania,Maximum local sales tax,0.020,ad valorem rate,2018,,Tax Foundation
+Rhode Island,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+South Carolina,Maximum local sales tax,0.030,ad valorem rate,2018,,Tax Foundation
+South Dakota,Maximum local sales tax,0.045,ad valorem rate,2018,"The sales taxes in Hawaii, New Mexico, North Dakota, and South Dakota have broad bases that include many services.",Tax Foundation
+Tennessee,Maximum local sales tax,0.028,ad valorem rate,2018,,Tax Foundation
+Texas,Maximum local sales tax,0.020,ad valorem rate,2018,,Tax Foundation
+Utah,Maximum local sales tax,0.027,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Vermont,Maximum local sales tax,0.010,ad valorem rate,2018,,Tax Foundation
+Virginia,Maximum local sales tax,0.007,ad valorem rate,2018,"Three states levy mandatory, statewide, local add-on sales taxes at the state level: California (1.25%), Utah (1.25%), Virginia (1%), we include these in their state sales tax.",Tax Foundation
+Washington,Maximum local sales tax,0.039,ad valorem rate,2018,,Tax Foundation
+West Virginia,Maximum local sales tax,0.010,ad valorem rate,2018,,Tax Foundation
+Wisconsin,Maximum local sales tax,0.018,ad valorem rate,2018,,Tax Foundation
+Wyoming,Maximum local sales tax,0.020,ad valorem rate,2018,,Tax Foundation
+D.C.,Maximum local sales tax,0.000,ad valorem rate,2018,,Tax Foundation
+Alabama,State cigarette excise tax,0.675,$ per 20 pack,2018,,Tax Foundation
+Alaska,State cigarette excise tax,2.000,$ per 20 pack,2018,,Tax Foundation
+Arizona,State cigarette excise tax,2.000,$ per 20 pack,2018,,Tax Foundation
+Arkansas,State cigarette excise tax,1.150,$ per 20 pack,2018,,Tax Foundation
+California,State cigarette excise tax,2.870,$ per 20 pack,2018,,Tax Foundation
+Colorado,State cigarette excise tax,0.840,$ per 20 pack,2018,,Tax Foundation
+Connecticut,State cigarette excise tax,4.350,$ per 20 pack,2018,,Tax Foundation
+Delaware,State cigarette excise tax,2.100,$ per 20 pack,2018,,Tax Foundation
+Florida,State cigarette excise tax,1.339,$ per 20 pack,2018,,Tax Foundation
+Georgia,State cigarette excise tax,0.370,$ per 20 pack,2018,,Tax Foundation
+Hawaii,State cigarette excise tax,3.200,$ per 20 pack,2018,,Tax Foundation
+Idaho,State cigarette excise tax,0.570,$ per 20 pack,2018,,Tax Foundation
+Illinois,State cigarette excise tax,1.980,$ per 20 pack,2018,,Tax Foundation
+Indiana,State cigarette excise tax,0.995,$ per 20 pack,2018,,Tax Foundation
+Iowa,State cigarette excise tax,1.360,$ per 20 pack,2018,,Tax Foundation
+Kansas,State cigarette excise tax,1.290,$ per 20 pack,2018,,Tax Foundation
+Kentucky,State cigarette excise tax,0.600,$ per 20 pack,2018,,Tax Foundation
+Louisiana,State cigarette excise tax,1.080,$ per 20 pack,2018,,Tax Foundation
+Maine,State cigarette excise tax,2.000,$ per 20 pack,2018,,Tax Foundation
+Maryland,State cigarette excise tax,2.000,$ per 20 pack,2018,,Tax Foundation
+Massachusetts,State cigarette excise tax,3.510,$ per 20 pack,2018,,Tax Foundation
+Michigan,State cigarette excise tax,2.000,$ per 20 pack,2018,,Tax Foundation
+Minnesota,State cigarette excise tax,3.040,$ per 20 pack,2018,,Tax Foundation
+Mississippi,State cigarette excise tax,0.680,$ per 20 pack,2018,,Tax Foundation
+Missouri,State cigarette excise tax,0.170,$ per 20 pack,2018,,Tax Foundation
+Montana,State cigarette excise tax,1.700,$ per 20 pack,2018,,Tax Foundation
+Nebraska,State cigarette excise tax,0.640,$ per 20 pack,2018,,Tax Foundation
+Nevada,State cigarette excise tax,1.800,$ per 20 pack,2018,,Tax Foundation
+New Hampshire,State cigarette excise tax,1.780,$ per 20 pack,2018,,Tax Foundation
+New Jersey,State cigarette excise tax,2.700,$ per 20 pack,2018,,Tax Foundation
+New Mexico,State cigarette excise tax,1.660,$ per 20 pack,2018,,Tax Foundation
+New York,State cigarette excise tax,4.350,$ per 20 pack,2018,,Tax Foundation
+North Carolina,State cigarette excise tax,0.450,$ per 20 pack,2018,,Tax Foundation
+North Dakota,State cigarette excise tax,0.440,$ per 20 pack,2018,,Tax Foundation
+Ohio,State cigarette excise tax,1.600,$ per 20 pack,2018,,Tax Foundation
+Oklahoma,State cigarette excise tax,1.030,$ per 20 pack,2018,,Tax Foundation
+Oregon,State cigarette excise tax,1.330,$ per 20 pack,2018,,Tax Foundation
+Pennsylvania,State cigarette excise tax,2.600,$ per 20 pack,2018,,Tax Foundation
+Rhode Island,State cigarette excise tax,4.250,$ per 20 pack,2018,,Tax Foundation
+South Carolina,State cigarette excise tax,0.570,$ per 20 pack,2018,,Tax Foundation
+South Dakota,State cigarette excise tax,1.530,$ per 20 pack,2018,,Tax Foundation
+Tennessee,State cigarette excise tax,0.620,$ per 20 pack,2018,,Tax Foundation
+Texas,State cigarette excise tax,1.410,$ per 20 pack,2018,,Tax Foundation
+Utah,State cigarette excise tax,1.700,$ per 20 pack,2018,,Tax Foundation
+Vermont,State cigarette excise tax,3.080,$ per 20 pack,2018,,Tax Foundation
+Virginia,State cigarette excise tax,0.300,$ per 20 pack,2018,,Tax Foundation
+Washington,State cigarette excise tax,3.025,$ per 20 pack,2018,,Tax Foundation
+West Virginia,State cigarette excise tax,1.200,$ per 20 pack,2018,,Tax Foundation
+Wisconsin,State cigarette excise tax,2.520,$ per 20 pack,2018,,Tax Foundation
+Wyoming,State cigarette excise tax,0.600,$ per 20 pack,2018,,Tax Foundation
+D.C.,State cigarette excise tax,2.500,$ per 20 pack,2018,,Tax Foundation
+Alabama,State gasoline tax,20.910,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Alaska,State gasoline tax,14.650,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Arizona,State gasoline tax,19.000,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Arkansas,State gasoline tax,21.800,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+California,State gasoline tax,55.220,cents per gallon,2018,"Gasoline is fully or partially subject to the states general sales tax. Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Colorado,State gasoline tax,22.000,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Connecticut,State gasoline tax,43.800,cents per gallon,2018,"Gasoline is fully or partially subject to the states general sales tax. Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Delaware,State gasoline tax,23.000,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Florida,State gasoline tax,41.360,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Georgia,State gasoline tax,31.590,cents per gallon,2018,"Gasoline is fully or partially subject to the states general sales tax. Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Hawaii,State gasoline tax,47.880,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Idaho,State gasoline tax,33.000,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Illinois,State gasoline tax,37.320,cents per gallon,2018,"Gasoline is fully or partially subject to the states general sales tax. Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Indiana,State gasoline tax,42.900,cents per gallon,2018,"Gasoline is fully or partially subject to the states general sales tax. Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Iowa,State gasoline tax,30.500,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Kansas,State gasoline tax,24.030,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Kentucky,State gasoline tax,26.000,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Louisiana,State gasoline tax,20.010,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Maine,State gasoline tax,30.010,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Maryland,State gasoline tax,35.300,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Massachusetts,State gasoline tax,26.540,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Michigan,State gasoline tax,44.130,cents per gallon,2018,"Gasoline is fully or partially subject to the states general sales tax. Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Minnesota,State gasoline tax,28.600,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Mississippi,State gasoline tax,18.790,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Missouri,State gasoline tax,17.350,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Montana,State gasoline tax,32.250,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Nebraska,State gasoline tax,28.900,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Nevada,State gasoline tax,33.780,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+New Hampshire,State gasoline tax,23.830,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+New Jersey,State gasoline tax,37.100,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+New Mexico,State gasoline tax,18.880,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+New York,State gasoline tax,45.760,cents per gallon,2018,"Gasoline is fully or partially subject to the states general sales tax. Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+North Carolina,State gasoline tax,35.350,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+North Dakota,State gasoline tax,23.000,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Ohio,State gasoline tax,28.010,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Oklahoma,State gasoline tax,20.000,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Oregon,State gasoline tax,36.770,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Pennsylvania,State gasoline tax,58.700,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Rhode Island,State gasoline tax,34.000,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+South Carolina,State gasoline tax,20.750,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+South Dakota,State gasoline tax,30.000,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Tennessee,State gasoline tax,26.400,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Texas,State gasoline tax,20.000,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Utah,State gasoline tax,29.410,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Vermont,State gasoline tax,31.220,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Virginia,State gasoline tax,22.400,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Washington,State gasoline tax,49.400,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+West Virginia,State gasoline tax,35.700,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Wisconsin,State gasoline tax,32.900,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Wyoming,State gasoline tax,24.000,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+D.C.,State gasoline tax,23.500,cents per gallon,2018,"Rates may include any of the following: exise taxes, environmental fees, storage tank fees, other fees or taxes, and general sales tax. ",Tax Foundation
+Alabama,Average gasoline price for the state,2.579,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Alaska,Average gasoline price for the state,3.371,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Arizona,Average gasoline price for the state,2.907,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Arkansas,Average gasoline price for the state,2.597,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+California,Average gasoline price for the state,3.618,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Colorado,Average gasoline price for the state,2.807,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Connecticut,Average gasoline price for the state,3.067,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Delaware,Average gasoline price for the state,2.826,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Florida,Average gasoline price for the state,2.758,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Georgia,Average gasoline price for the state,2.773,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Hawaii,Average gasoline price for the state,3.770,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Idaho,Average gasoline price for the state,3.166,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Illinois,Average gasoline price for the state,2.935,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Indiana,Average gasoline price for the state,2.893,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Iowa,Average gasoline price for the state,2.726,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Kansas,Average gasoline price for the state,2.668,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Kentucky,Average gasoline price for the state,2.743,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Louisiana,Average gasoline price for the state,2.607,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Maine,Average gasoline price for the state,2.870,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Maryland,Average gasoline price for the state,2.845,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Massachusetts,Average gasoline price for the state,2.897,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Michigan,Average gasoline price for the state,2.905,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Minnesota,Average gasoline price for the state,2.794,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Mississippi,Average gasoline price for the state,2.574,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Missouri,Average gasoline price for the state,2.625,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Montana,Average gasoline price for the state,2.944,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Nebraska,Average gasoline price for the state,2.764,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Nevada,Average gasoline price for the state,3.192,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+New Hampshire,Average gasoline price for the state,2.810,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+New Jersey,Average gasoline price for the state,2.905,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+New Mexico,Average gasoline price for the state,2.776,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+New York,Average gasoline price for the state,3.010,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+North Carolina,Average gasoline price for the state,2.702,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+North Dakota,Average gasoline price for the state,2.856,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Ohio,Average gasoline price for the state,2.771,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Oklahoma,Average gasoline price for the state,2.641,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Oregon,Average gasoline price for the state,3.278,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Pennsylvania,Average gasoline price for the state,3.065,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Rhode Island,Average gasoline price for the state,2.904,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+South Carolina,Average gasoline price for the state,2.594,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+South Dakota,Average gasoline price for the state,2.901,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Tennessee,Average gasoline price for the state,2.647,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Texas,Average gasoline price for the state,2.631,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Utah,Average gasoline price for the state,3.089,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Vermont,Average gasoline price for the state,2.920,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Virginia,Average gasoline price for the state,2.626,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Washington,Average gasoline price for the state,3.395,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+West Virginia,Average gasoline price for the state,2.860,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Wisconsin,Average gasoline price for the state,2.820,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Wyoming,Average gasoline price for the state,2.944,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+D.C.,Average gasoline price for the state,3.056,dollars per gallon,2018,"Measures for regular gasoline on August 8, 2018",AAA gas prices (via Ballotpedia and the Wayback Machine): https://web.archive.org/web/20180808062028/https://gasprices.aaa.com/state-gas-price-averages/
+Alabama,State wine excise tax,1.700,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Alaska,State wine excise tax,2.500,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Arizona,State wine excise tax,0.840,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Arkansas,State wine excise tax,1.440,dollars per gallon,2018,Includes case fees and/or bottle fees and sales tax specific to alcoholic beverages. ,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+California,State wine excise tax,0.200,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Colorado,State wine excise tax,0.320,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Connecticut,State wine excise tax,0.720,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Delaware,State wine excise tax,1.630,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Florida,State wine excise tax,2.250,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Georgia,State wine excise tax,1.510,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Hawaii,State wine excise tax,1.380,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Idaho,State wine excise tax,0.450,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Illinois,State wine excise tax,1.390,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Indiana,State wine excise tax,0.470,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Iowa,State wine excise tax,1.750,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Kansas,State wine excise tax,0.300,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Kentucky,State wine excise tax,3.470,dollars per gallon,2018,"Includes wholesale tax rate of 10.25%, converted to gallonage rate. ",Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Louisiana,State wine excise tax,0.760,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Maine,State wine excise tax,0.600,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Maryland,State wine excise tax,1.360,dollars per gallon,2018,Includes sales tax specific to alcoholic beverages.,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Massachusetts,State wine excise tax,0.550,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Michigan,State wine excise tax,0.510,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Minnesota,State wine excise tax,1.200,dollars per gallon,2018,Includes case fees and/or bottle fees and sales tax specific to alcoholic beverages.,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Mississippi,State wine excise tax,,dollars per gallon,2018,"State government controls all sales, excise taxes may still be applied. ",Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Missouri,State wine excise tax,0.420,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Montana,State wine excise tax,1.060,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Nebraska,State wine excise tax,0.950,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Nevada,State wine excise tax,0.700,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+New Hampshire,State wine excise tax,,dollars per gallon,2018,"State government controls all sales, excise taxes may still be applied.",Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+New Jersey,State wine excise tax,0.880,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+New Mexico,State wine excise tax,1.700,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+New York,State wine excise tax,0.300,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+North Carolina,State wine excise tax,1.000,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+North Dakota,State wine excise tax,1.060,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Ohio,State wine excise tax,0.320,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Oklahoma,State wine excise tax,0.720,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Oregon,State wine excise tax,0.670,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Pennsylvania,State wine excise tax,,dollars per gallon,2018,"State government controls all sales, excise taxes may still be applied.",Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Rhode Island,State wine excise tax,1.400,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+South Carolina,State wine excise tax,1.080,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+South Dakota,State wine excise tax,1.310,dollars per gallon,2018,Includes sales tax specific to alcoholic beverages.,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Tennessee,State wine excise tax,1.270,dollars per gallon,2018,Includes case fees and/or bottle fees.,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Texas,State wine excise tax,0.200,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Utah,State wine excise tax,,dollars per gallon,2018,"State government controls all sales, excise taxes may still be applied.",Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Vermont,State wine excise tax,0.550,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Virginia,State wine excise tax,1.510,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Washington,State wine excise tax,0.870,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+West Virginia,State wine excise tax,1.000,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Wisconsin,State wine excise tax,0.250,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Wyoming,State wine excise tax,,dollars per gallon,2018,"State government controls all sales, excise taxes may still be applied.",Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+D.C.,State wine excise tax,1.730,dollars per gallon,2018,Includes sales tax specific to alcoholic beverages.,Tax Foundation: https://taxfoundation.org/state-wine-taxes-2018/
+Alabama,State beer excise tax,1.050,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Alaska,State beer excise tax,1.070,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Arizona,State beer excise tax,0.160,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Arkansas,State beer excise tax,0.340,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+California,State beer excise tax,0.200,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Colorado,State beer excise tax,0.080,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Connecticut,State beer excise tax,0.230,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Delaware,State beer excise tax,0.260,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Florida,State beer excise tax,0.480,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Georgia,State beer excise tax,1.010,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Hawaii,State beer excise tax,0.930,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Idaho,State beer excise tax,0.150,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Illinois,State beer excise tax,0.230,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Indiana,State beer excise tax,0.120,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Iowa,State beer excise tax,0.190,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Kansas,State beer excise tax,0.180,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Kentucky,State beer excise tax,0.850,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Louisiana,State beer excise tax,0.400,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Maine,State beer excise tax,0.350,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Maryland,State beer excise tax,0.530,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Massachusetts,State beer excise tax,0.110,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Michigan,State beer excise tax,0.200,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Minnesota,State beer excise tax,0.490,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Mississippi,State beer excise tax,0.430,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Missouri,State beer excise tax,0.060,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Montana,State beer excise tax,0.140,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Nebraska,State beer excise tax,0.310,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Nevada,State beer excise tax,0.160,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+New Hampshire,State beer excise tax,0.300,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+New Jersey,State beer excise tax,0.120,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+New Mexico,State beer excise tax,0.410,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+New York,State beer excise tax,0.140,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+North Carolina,State beer excise tax,0.620,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+North Dakota,State beer excise tax,0.390,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Ohio,State beer excise tax,0.180,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Oklahoma,State beer excise tax,0.400,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Oregon,State beer excise tax,0.080,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Pennsylvania,State beer excise tax,0.080,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Rhode Island,State beer excise tax,0.120,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+South Carolina,State beer excise tax,0.770,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+South Dakota,State beer excise tax,0.270,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Tennessee,State beer excise tax,1.290,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Texas,State beer excise tax,0.200,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Utah,State beer excise tax,0.410,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Vermont,State beer excise tax,0.270,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Virginia,State beer excise tax,0.260,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Washington,State beer excise tax,0.260,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+West Virginia,State beer excise tax,0.180,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Wisconsin,State beer excise tax,0.060,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Wyoming,State beer excise tax,0.020,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+D.C.,State beer excise tax,0.700,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-beer-taxes-2018/
+Alabama,State distilled liquor tax,18.270,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Alaska,State distilled liquor tax,12.800,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Arizona,State distilled liquor tax,3.000,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Arkansas,State distilled liquor tax,7.730,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+California,State distilled liquor tax,3.300,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Colorado,State distilled liquor tax,2.280,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Connecticut,State distilled liquor tax,5.400,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Delaware,State distilled liquor tax,4.500,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Florida,State distilled liquor tax,6.500,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Georgia,State distilled liquor tax,3.790,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Hawaii,State distilled liquor tax,5.980,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Idaho,State distilled liquor tax,10.950,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Illinois,State distilled liquor tax,8.550,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Indiana,State distilled liquor tax,2.680,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Iowa,State distilled liquor tax,13.070,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Kansas,State distilled liquor tax,2.500,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Kentucky,State distilled liquor tax,7.860,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Louisiana,State distilled liquor tax,3.030,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Maine,State distilled liquor tax,5.830,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Maryland,State distilled liquor tax,5.000,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Massachusetts,State distilled liquor tax,4.050,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Michigan,State distilled liquor tax,11.990,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Minnesota,State distilled liquor tax,8.960,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Mississippi,State distilled liquor tax,8.150,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Missouri,State distilled liquor tax,2.000,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Montana,State distilled liquor tax,9.780,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Nebraska,State distilled liquor tax,3.750,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Nevada,State distilled liquor tax,3.600,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+New Hampshire,State distilled liquor tax,,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+New Jersey,State distilled liquor tax,5.500,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+New Mexico,State distilled liquor tax,6.060,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+New York,State distilled liquor tax,6.440,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+North Carolina,State distilled liquor tax,14.630,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+North Dakota,State distilled liquor tax,4.660,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Ohio,State distilled liquor tax,9.870,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Oklahoma,State distilled liquor tax,5.560,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Oregon,State distilled liquor tax,22.750,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Pennsylvania,State distilled liquor tax,7.240,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Rhode Island,State distilled liquor tax,5.400,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+South Carolina,State distilled liquor tax,5.420,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+South Dakota,State distilled liquor tax,4.670,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Tennessee,State distilled liquor tax,4.460,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Texas,State distilled liquor tax,2.400,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Utah,State distilled liquor tax,15.380,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Vermont,State distilled liquor tax,7.720,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Virginia,State distilled liquor tax,19.930,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Washington,State distilled liquor tax,32.520,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+West Virginia,State distilled liquor tax,7.670,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Wisconsin,State distilled liquor tax,3.250,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Wyoming,State distilled liquor tax,,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+D.C.,State distilled liquor tax,6.170,dollars per gallon,2018,,Tax Foundation: https://taxfoundation.org/state-spirits-taxes-2018/
+Alabama,State gasoline tax,0.190,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Alaska,State gasoline tax,0.090,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Arizona,State gasoline tax,0.190,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Arkansas,State gasoline tax,0.218,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+California,State gasoline tax,0.372,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Colorado,State gasoline tax,0.233,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Connecticut,State gasoline tax,0.250,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Delaware,State gasoline tax,0.230,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+District of Columbia,State gasoline tax,0.235,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Florida,State gasoline tax,0.306,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Georgia,State gasoline tax,0.265,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Hawaii,State gasoline tax,0.185,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Idaho,State gasoline tax,0.330,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Illinois,State gasoline tax,0.331,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Indiana,State gasoline tax,0.290,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Iowa,State gasoline tax,0.318,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Kansas,State gasoline tax,0.250,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Kentucky,State gasoline tax,0.260,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Louisiana,State gasoline tax,0.209,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Maine,State gasoline tax,0.314,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Maryland,State gasoline tax,0.328,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Massachusetts,State gasoline tax,0.267,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Michigan,State gasoline tax,0.309,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Minnesota,State gasoline tax,0.306,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Mississippi,State gasoline tax,0.184,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Missouri,State gasoline tax,0.173,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Montana,State gasoline tax,0.278,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Nebraska,State gasoline tax,0.277,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Nevada,State gasoline tax,0.238,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+New Hampshire,State gasoline tax,0.238,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+New Jersey,State gasoline tax,0.146,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+New Mexico,State gasoline tax,0.189,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+New York,State gasoline tax,0.333,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+North Carolina,State gasoline tax,0.353,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+North Dakota,State gasoline tax,0.230,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Ohio,State gasoline tax,0.280,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Oklahoma,State gasoline tax,0.170,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Oregon,State gasoline tax,0.300,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Pennsylvania,State gasoline tax,0.514,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Rhode Island,State gasoline tax,0.341,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+South Carolina,State gasoline tax,0.168,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+South Dakota,State gasoline tax,0.300,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Tennessee,State gasoline tax,0.214,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Texas,State gasoline tax,0.200,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Utah,State gasoline tax,0.301,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Vermont,State gasoline tax,0.305,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Virginia,State gasoline tax,0.168,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Washington,State gasoline tax,0.446,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+West Virginia,State gasoline tax,0.332,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Wisconsin,State gasoline tax,0.329,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Wyoming,State gasoline tax,0.240,dollars per gallon,2016,Includes a few other state-level taxes affecting gasoline,Energy Information Administration: https://www.eia.gov/petroleum/marketing/monthly/xls/fueltaxes.xls
+Alabama,State distilled liquor tax,18.250,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Alaska,State distilled liquor tax,12.800,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Arizona,State distilled liquor tax,3.000,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Arkansas,State distilled liquor tax,6.880,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+California,State distilled liquor tax,3.300,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Colorado,State distilled liquor tax,2.280,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Connecticut,State distilled liquor tax,5.400,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Delaware,State distilled liquor tax,3.750,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+District of Columbia,State distilled liquor tax,5.690,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Florida,State distilled liquor tax,6.500,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Georgia,State distilled liquor tax,3.790,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Hawaii,State distilled liquor tax,5.980,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Idaho,State distilled liquor tax,10.940,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Illinois,State distilled liquor tax,8.550,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Indiana,State distilled liquor tax,2.680,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Iowa,State distilled liquor tax,12.520,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Kansas,State distilled liquor tax,2.500,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Kentucky,State distilled liquor tax,7.540,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Louisiana,State distilled liquor tax,2.500,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Maine,State distilled liquor tax,5.820,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Maryland,State distilled liquor tax,4.640,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Massachusetts,State distilled liquor tax,4.050,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Michigan,State distilled liquor tax,11.940,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Minnesota,State distilled liquor tax,8.670,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Mississippi,State distilled liquor tax,7.740,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Missouri,State distilled liquor tax,2.000,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Montana,State distilled liquor tax,9.770,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Nebraska,State distilled liquor tax,3.750,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Nevada,State distilled liquor tax,3.600,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+New Hampshire,State distilled liquor tax,0.000,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+New Jersey,State distilled liquor tax,5.500,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+New Mexico,State distilled liquor tax,6.060,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+New York,State distilled liquor tax,6.440,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+North Carolina,State distilled liquor tax,12.480,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+North Dakota,State distilled liquor tax,4.660,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Ohio,State distilled liquor tax,9.860,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Oklahoma,State distilled liquor tax,5.560,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Oregon,State distilled liquor tax,22.740,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Pennsylvania,State distilled liquor tax,7.230,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Rhode Island,State distilled liquor tax,5.400,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+South Carolina,State distilled liquor tax,5.420,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+South Dakota,State distilled liquor tax,4.630,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Tennessee,State distilled liquor tax,4.460,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Texas,State distilled liquor tax,2.400,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Utah,State distilled liquor tax,12.750,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Vermont,State distilled liquor tax,7.710,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Virginia,State distilled liquor tax,19.860,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Washington,State distilled liquor tax,33.540,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+West Virginia,State distilled liquor tax,2.110,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Wisconsin,State distilled liquor tax,3.250,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Wyoming,State distilled liquor tax,0.000,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-taxes-distilled-spirits-your-state-2016/
+Alabama,State wine excise tax,1.700,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Alaska,State wine excise tax,2.500,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Arizona,State wine excise tax,0.840,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Arkansas,State wine excise tax,1.350,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+California,State wine excise tax,0.200,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Colorado,State wine excise tax,0.320,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Connecticut,State wine excise tax,0.720,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Delaware,State wine excise tax,0.970,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+District of Columbia,State wine excise tax,1.720,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Florida,State wine excise tax,2.250,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Georgia,State wine excise tax,1.510,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Hawaii,State wine excise tax,1.380,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Idaho,State wine excise tax,0.450,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Illinois,State wine excise tax,1.390,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Indiana,State wine excise tax,0.470,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Iowa,State wine excise tax,1.750,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Kansas,State wine excise tax,0.300,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Kentucky,State wine excise tax,3.300,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Louisiana,State wine excise tax,0.110,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Maine,State wine excise tax,0.600,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Maryland,State wine excise tax,1.350,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Massachusetts,State wine excise tax,0.550,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Michigan,State wine excise tax,0.510,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Minnesota,State wine excise tax,1.180,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Mississippi,State wine excise tax,0.000,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Missouri,State wine excise tax,0.420,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Montana,State wine excise tax,1.060,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Nebraska,State wine excise tax,0.950,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Nevada,State wine excise tax,0.700,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+New Hampshire,State wine excise tax,0.000,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+New Jersey,State wine excise tax,0.880,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+New Mexico,State wine excise tax,1.700,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+New York,State wine excise tax,0.300,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+North Carolina,State wine excise tax,1.000,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+North Dakota,State wine excise tax,1.060,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Ohio,State wine excise tax,0.320,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Oklahoma,State wine excise tax,0.720,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Oregon,State wine excise tax,0.670,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Pennsylvania,State wine excise tax,0.000,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Rhode Island,State wine excise tax,1.400,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+South Carolina,State wine excise tax,1.080,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+South Dakota,State wine excise tax,1.270,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Tennessee,State wine excise tax,1.270,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Texas,State wine excise tax,0.200,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Utah,State wine excise tax,0.000,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Vermont,State wine excise tax,0.550,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Virginia,State wine excise tax,1.510,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Washington,State wine excise tax,0.870,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+West Virginia,State wine excise tax,1.000,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Wisconsin,State wine excise tax,0.250,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Wyoming,State wine excise tax,0.000,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/how-high-are-wine-taxes-your-state-2016/
+Alabama,State beer excise tax,1.050,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Alaska,State beer excise tax,1.070,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Arizona,State beer excise tax,0.160,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Arkansas,State beer excise tax,0.350,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+California,State beer excise tax,0.200,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Colorado,State beer excise tax,0.080,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Connecticut,State beer excise tax,0.230,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Delaware,State beer excise tax,0.160,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Florida,State beer excise tax,0.480,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Georgia,State beer excise tax,1.010,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Hawaii,State beer excise tax,0.930,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Idaho,State beer excise tax,0.150,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Illinois,State beer excise tax,0.230,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Indiana,State beer excise tax,0.120,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Iowa,State beer excise tax,0.190,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Kansas,State beer excise tax,0.180,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Kentucky,State beer excise tax,0.840,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Louisiana,State beer excise tax,0.320,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Maine,State beer excise tax,0.350,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Maryland,State beer excise tax,0.490,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Massachusetts,State beer excise tax,0.110,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Michigan,State beer excise tax,0.200,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Minnesota,State beer excise tax,0.470,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Mississippi,State beer excise tax,0.430,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Missouri,State beer excise tax,0.060,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Montana,State beer excise tax,0.140,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Nebraska,State beer excise tax,0.310,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Nevada,State beer excise tax,0.160,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New Hampshire,State beer excise tax,0.300,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New Jersey,State beer excise tax,0.120,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New Mexico,State beer excise tax,0.410,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New York,State beer excise tax,0.140,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+North Carolina,State beer excise tax,0.620,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+North Dakota,State beer excise tax,0.390,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Ohio,State beer excise tax,0.180,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Oklahoma,State beer excise tax,0.400,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Oregon,State beer excise tax,0.080,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Pennsylvania,State beer excise tax,0.080,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Rhode Island,State beer excise tax,0.120,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+South Carolina,State beer excise tax,0.770,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+South Dakota,State beer excise tax,0.270,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Tennessee,State beer excise tax,1.290,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Texas,State beer excise tax,0.200,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Utah,State beer excise tax,0.410,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Vermont,State beer excise tax,0.270,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Virginia,State beer excise tax,0.260,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Washington,State beer excise tax,0.260,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+West Virginia,State beer excise tax,0.180,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Wisconsin,State beer excise tax,0.060,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Wyoming,State beer excise tax,0.020,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+District of Columbia,State beer excise tax,0.640,dollars per gallon,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Alabama,State cigarette excise tax,0.675,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Alaska,State cigarette excise tax,2.000,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Arizona,State cigarette excise tax,2.000,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Arkansas,State cigarette excise tax,1.150,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+California,State cigarette excise tax,0.870,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Colorado,State cigarette excise tax,0.840,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Connecticut,State cigarette excise tax,3.650,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Delaware,State cigarette excise tax,1.600,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Florida,State cigarette excise tax,1.339,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Georgia,State cigarette excise tax,0.370,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Hawaii,State cigarette excise tax,3.200,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Idaho,State cigarette excise tax,0.570,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Illinois,State cigarette excise tax,1.980,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Indiana,State cigarette excise tax,0.995,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Iowa,State cigarette excise tax,1.360,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Kansas,State cigarette excise tax,1.290,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Kentucky,State cigarette excise tax,0.600,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Louisiana,State cigarette excise tax,0.860,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Maine,State cigarette excise tax,2.000,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Maryland,State cigarette excise tax,2.000,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Massachusetts,State cigarette excise tax,3.510,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Michigan,State cigarette excise tax,2.000,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Minnesota,State cigarette excise tax,3.000,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Mississippi,State cigarette excise tax,0.680,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Missouri,State cigarette excise tax,0.170,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Montana,State cigarette excise tax,1.700,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Nebraska,State cigarette excise tax,0.640,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Nevada,State cigarette excise tax,1.800,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New Hampshire,State cigarette excise tax,1.780,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New Jersey,State cigarette excise tax,2.700,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New Mexico,State cigarette excise tax,1.660,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New York,State cigarette excise tax,4.350,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+North Carolina,State cigarette excise tax,0.450,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+North Dakota,State cigarette excise tax,0.440,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Ohio,State cigarette excise tax,1.600,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Oklahoma,State cigarette excise tax,1.030,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Oregon,State cigarette excise tax,1.320,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Pennsylvania,State cigarette excise tax,1.600,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Rhode Island,State cigarette excise tax,3.750,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+South Carolina,State cigarette excise tax,0.570,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+South Dakota,State cigarette excise tax,1.530,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Tennessee,State cigarette excise tax,0.620,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Texas,State cigarette excise tax,1.410,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Utah,State cigarette excise tax,1.700,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Vermont,State cigarette excise tax,3.080,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Virginia,State cigarette excise tax,0.300,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Washington,State cigarette excise tax,3.025,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+West Virginia,State cigarette excise tax,0.550,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Wisconsin,State cigarette excise tax,2.520,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Wyoming,State cigarette excise tax,0.600,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+District of Columbia,State cigarette excise tax,2.500,Dollars per 20-Pack,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Alabama,Combined state and local sales taxes,8.97,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Alaska,Combined state and local sales taxes,1.78,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Arizona,Combined state and local sales taxes,8.25,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Arkansas,Combined state and local sales taxes,9.3,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+California,Combined state and local sales taxes,8.48,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Colorado,Combined state and local sales taxes,7.52,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Connecticut,Combined state and local sales taxes,6.35,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Delaware,Combined state and local sales taxes,0.000,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Florida,Combined state and local sales taxes,6.66,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Georgia,Combined state and local sales taxes,7.01,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Hawaii,Combined state and local sales taxes,4.35,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Idaho,Combined state and local sales taxes,6.03,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Illinois,Combined state and local sales taxes,8.64,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Indiana,Combined state and local sales taxes,7,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Iowa,Combined state and local sales taxes,6.79,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Kansas,Combined state and local sales taxes,8.6,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Kentucky,Combined state and local sales taxes,6,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Louisiana,Combined state and local sales taxes,9,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Maine,Combined state and local sales taxes,5.5,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Maryland,Combined state and local sales taxes,6,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Massachusetts,Combined state and local sales taxes,6.25,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Michigan,Combined state and local sales taxes,6,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Minnesota,Combined state and local sales taxes,7.27,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Mississippi,Combined state and local sales taxes,7.07,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Missouri,Combined state and local sales taxes,7.86,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Montana,Combined state and local sales taxes,0.000,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Nebraska,Combined state and local sales taxes,6.87,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Nevada,Combined state and local sales taxes,7.98,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New Hampshire,Combined state and local sales taxes,0.000,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New Jersey,Combined state and local sales taxes,6.97,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New Mexico,Combined state and local sales taxes,7.51,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+New York,Combined state and local sales taxes,8.49,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+North Carolina,Combined state and local sales taxes,6.9,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+North Dakota,Combined state and local sales taxes,6.82,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Ohio,Combined state and local sales taxes,7.14,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Oklahoma,Combined state and local sales taxes,8.82,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Oregon,Combined state and local sales taxes,,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Pennsylvania,Combined state and local sales taxes,6.34,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Rhode Island,Combined state and local sales taxes,7,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+South Carolina,Combined state and local sales taxes,7.22,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+South Dakota,Combined state and local sales taxes,5.84,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Tennessee,Combined state and local sales taxes,9.46,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Texas,Combined state and local sales taxes,8.17,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Utah,Combined state and local sales taxes,6.69,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Vermont,Combined state and local sales taxes,6.17,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Virginia,Combined state and local sales taxes,5.63,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Washington,Combined state and local sales taxes,8.89,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+West Virginia,Combined state and local sales taxes,6.2,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Wisconsin,Combined state and local sales taxes,5.41,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+Wyoming,Combined state and local sales taxes,5.42,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare
+District of Columbia,Combined state and local sales taxes,5.75,ad valorem rate,2016,,Tax Foundation: https://taxfoundation.org/facts-figures-2016-how-does-your-state-compare

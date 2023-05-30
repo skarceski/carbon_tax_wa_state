@@ -1,8 +1,8 @@
 
-# eia data prep
-# data source: https://www.eia.gov/electricity/data/state/ 
+# Energy Information Administration data 
+# link: https://www.eia.gov/electricity/data/state/ 
 
-library(tidyverse)
+library(tidyverse) 
 
 eia_consume <- read_csv("data/annual_generation_state_eia.csv") %>% 
   select(1:5) %>% 

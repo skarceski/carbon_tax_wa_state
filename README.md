@@ -24,3 +24,11 @@ The repository includes the data and scripts necessary to replicate the analysis
   - `energy_data_prep.R` contains 
   - `yale_pccc_prep.R` contains code to load and merge the public opinion data from YPCCC for 2016 and 2018. 
 - `tables_figures` contains the final versions of each table and figure included in the paper and in the appendix. 
+
+### Licenses
+
+Text and figures : [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Code : [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Data : [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) attribution requested in reuse.

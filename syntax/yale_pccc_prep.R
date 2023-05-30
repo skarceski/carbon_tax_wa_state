@@ -1,5 +1,5 @@
 
-# yale program on climate change communication data
+# yale program on climate change communication (YPCCC) data
 
 library(tidyverse) 
 

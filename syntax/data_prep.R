@@ -1,4 +1,5 @@
 
+# run scripts for YPCCC and EIA data prep 
 source("syntax/yale_pccc_prep.R") 
 source("syntax/energy_data_prep.R") 
 
@@ -44,23 +45,14 @@ acs_pres <- acs_county_2018 |>
               select(county_fips, dem_green), 
             by = "county_fips") 
 
-# read_csv("data/state_1976-200_president_mitdl.csv") |> 
-#   filter(year == 2016, writein == FALSE, 
-#          party_detailed %in% c("DEMOCRAT", "GREEN")) |> 
-#   group_by(state, state_po) |> 
-#   summarize(dem_green = sum(candidatevotes)/mean(totalvotes)) |> 
-#   ungroup() |> 
-#   select(st = state_po, dem_green)
-
-# merge it all together 
-
 states <- tibble(state_abb = c(state.abb, "DC"),
                  state = c(state.name, "District of Columbia")) 
 
 county_data <- acs_pres |> 
   left_join(yale |> 
               filter(year == 2018, GeoType == "County") |> 
-              select(county_fips, year, regulate, happening)) |> 
+              select(county_fips, year, regulate, happening, reducetax, 
+                     state:sin_tax)) |> 
   mutate(med_inc_k = median_income/1000) |> 
   filter(!str_detect(county, "Puerto Rico")) |> 
   left_join(county_match) |> 

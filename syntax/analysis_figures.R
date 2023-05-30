@@ -19,7 +19,7 @@ state_data <- yale |>
   select(state = GeoName, pop = TotalPop, happening, worried, regulate) |> 
   left_join(tibble(st = c(state.abb, "DC"),
                    state = c(state.name, "District of Columbia"))) |> 
-  left_join(read_csv("state_1976-200_president_mitdl.csv") |> 
+  left_join(read_csv("data/state_1976-200_president_mitdl.csv") |> 
               filter(year == 2016, writein == FALSE, 
                      party_detailed %in% c("DEMOCRAT", "GREEN")) |> 
               group_by(state, state_po) |> 
@@ -27,7 +27,7 @@ state_data <- yale |>
               ungroup() |> 
               select(st = state_po, dem_green)) |> 
   select(state, st, pop, happening, worried, regulate, dem_green) |> 
-  left_join(read_csv("annual_generation_state_eia.csv") |> 
+  left_join(read_csv("data/annual_generation_state_eia.csv") |> 
               select(1:5) |> 
               filter(year == 2016, 
                      type_of_producer == "Total Electric Power Industry") |> 
@@ -53,7 +53,7 @@ state_data <- yale |>
   mutate(con_ff_pc = (coal + nat_gas + petroleum + other_biomass + wood_fuel + other_gas)/pop,
          con_non_co2_pc = (hydro + solar + wind + nuclear + geothermal)/pop) |> 
   select(1:7, con_non_co2, con_ff_pc, con_non_co2_pc) |> 
-  left_join(read_csv("eia_state_production.csv") |> 
+  left_join(read_csv("data/eia_state_production.csv") |> 
               pivot_longer(4:64, names_to = "year", values_to = "btu_est") |> 
               # mutate(MSN = tolower(MSN)) |> 
               filter(year == 2016, str_sub(MSN, -1L, -1L) == "B") |>
@@ -65,7 +65,7 @@ state_data <- yale |>
               mutate(p_ff = coal + nat_gas + crude,
                      p_non_co2 = non_co2 + nuclear) |> 
               select(st, p_ff, p_non_co2)) |> 
-  left_join(read_csv("state_level_taxes.csv") |> 
+  left_join(read_csv("data/state_level_taxes.csv") |> 
               filter(year == 2016) |> 
               mutate(policy = case_when(
                 policy == "Combined state and local sales taxes" ~ "sl_sales",
@@ -90,12 +90,7 @@ state_data <- yale |>
   mutate(ff_pc = p_ff/pop, 
          non_co2_pc = p_non_co2/pop)
 
-# I want the non_co2 (geothermal, hydro, wind, solar) and nuclear AND 
-# the ff production coal, nat_gas, and crude 
-
 # state_data
-
-# a single combined graphic 
 
 # object containing the names of the RGGI states 
 RGGI <- c("Connecticut", "Delaware", "Maine", "New Hampshire", 
@@ -153,10 +148,10 @@ ggsave("tables_figures/figure_1.tiff", height = 5, width = 7)
 
 library(lme4)
 library(sjPlot)
-library(broomExtra)
+library(broom.mixed)
 
 # this handles all the data prep 
-source("data_prep.R") 
+source("syntax/data_prep.R") 
 
 model_vars <- tibble(term = c("happening", "regulate", "dem_green", 
                               "gas_tax",  "sin_tax", 
@@ -241,7 +236,7 @@ model <- lmer(reducetax ~ happening + regulate +
                 data = county_data_z) 
 
 # use broomExtra to 'tidy' the results 
-output <- tidy(model) |> 
+output <- broom::tidy(model) |> 
   filter(effect == "fixed") |> 
   select(term, estimate, std.error, statistic) |> 
   left_join(model_vars) |> 

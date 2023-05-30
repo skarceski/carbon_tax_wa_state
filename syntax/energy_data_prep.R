@@ -4,7 +4,7 @@
 
 library(tidyverse)
 
-eia_consume <- read_csv("annual_generation_state_eia.csv") %>% 
+eia_consume <- read_csv("data/annual_generation_state_eia.csv") %>% 
   select(1:5) %>% 
   filter(year == 2018, 
          type_of_producer == "Total Electric Power Industry") %>% 
@@ -24,4 +24,3 @@ eia_consume <- read_csv("annual_generation_state_eia.csv") %>%
   mutate(non_co2_electricity = (nuclear + hydro + wind + solar + geothermal)/total,
          non_co2_w_bio = (nuclear + hydro + wind + solar + geothermal + wood_fuel + 
                             other_biomass)/total) 
-

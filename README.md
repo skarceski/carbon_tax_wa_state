@@ -19,9 +19,9 @@ The repository includes the data and scripts necessary to replicate the analysis
   - `YCOM_2018_Data.csv` contains public opinion data from the YPCCC aggregated at the county level for the year 2018. 
 - `syntax` contains scripts used in cleaning and manipulating the data, and those that can be used to replicate the analysis in the paper. 
   - `acs_prep.R` contains code to download and clean the ACS 5-year data for the analysis. 
-  - `analysis_figures.R` contains the script 
+  - `analysis_figures.R` contains the script to replicate the analysis from the paper, as well as the tables and figures.
   - `data_prep.R` contains a script that will load the data used in the `analysis_figures.R` script (and replicate the analysis and figures from the paper). 
-  - `energy_data_prep.R` contains 
+  - `energy_data_prep.R` contains code to prepare the data from EIA to be merged with the other data sets.
   - `yale_pccc_prep.R` contains code to load and merge the public opinion data from YPCCC for 2016 and 2018. 
 - `tables_figures` contains the final versions of each table and figure included in the paper and in the appendix. 
 
